@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Gödel"
+  given-names: "Martina"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Klappenbach"
+  given-names: "Lou"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Sander"
+  given-names: "Ruth"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Schnöpf"
+  given-names: "Markus"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Wer sind die Herausgeber:innen Digitaler Editionen? Eine Untersuchung zur Repräsentation von Digital Humanities-Wissenschaftler:innen"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2024-02-12
+url: "https://github.com/telota/dhd2024-poster"
