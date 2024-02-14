@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+	<title type="main">Vorschlag zum Nachweis von beteiligten DH-Personen mit Hilfe von <ref target="https://credit.niso.org/">CrediT</ref></title>
+	<title type="sub">Dhd2024 Poster: Wer sind die Herausgeber:innen Digitaler Editionen? Eine Untersuchung zur Repräsentation von Digital Humanities-Wissenschaftler:innen</title>
+<!--Beteiligte DH-Personen in alphabetischer Reihenfolge-->
+<respStmt>
+	<persName>
+		<forename>Martina</forename>
+		<surname>Gödel</surname>
+		<idno type="orcid">https://orcid.org/0009-0002-4707-0404</idno>
+		<affiliation ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</affiliation>
+	</persName>
+	<resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Entwicklung und Konzeption</resp>
+	<resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2023" to="2024">Datenaquise</resp>
+	<resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2023" to="2024">Datenaufbereitung</resp>
+	<resp ref="https://credit.niso.org/contributor-roles/formal-analysis/" from="2023" to="2024">Datenauswertung</resp>
+	<resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2023" to="2024">Methodik</resp>
+</respStmt>
+<respStmt>
+	<persName>
+		<forename>Lou</forename> 
+		<surname>Klappenbach</surname>
+		<idno type="orcid">https://orcid.org/0000-0001-6587-3353</idno>
+		<affiliation ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</affiliation> 
+	</persName>
+	<resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Entwicklung und Konzeption</resp>
+	<resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2023" to="2024">Datenaquise</resp>
+	<resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2023" to="2024">Datenaufbereitung</resp>
+	<resp ref="https://credit.niso.org/contributor-roles/formal-analysis/" from="2023" to="2024">Datenauswertung</resp>
+	<resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2023" to="2024">Methodik</resp>
+	<resp ref="https://credit.niso.org/contributor-roles/visualization/" from="2023" to="2024">Design und Visualisierung</resp>
+</respStmt>
+<respStmt>
+	<persName>
+		<forename>Marthe</forename>
+		<surname>Küster</surname>
+		<idno type="orcid"/>
+		<affiliation ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</affiliation>
+	</persName>
+	<resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2023" to="2024">Datenaquise</resp>
+	<resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2023" to="2024">Forschungsarbeit</resp>
+</respStmt>
+<respStmt>
+	<persName>
+		<forename>Tom</forename>
+		<surname>Liese</surname>
+		<idno type="orcid"/>
+		<affiliation ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</affiliation>
+	</persName>
+	<resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2023" to="2024">Datenaquise</resp>
+	<resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2023" to="2024">Forschungsarbeit</resp>
+</respStmt>
+<respStmt>
+	<persName>
+		<forename>Vivian</forename>
+		<surname>Rätzke</surname>
+		<idno type="orcid"/>
+		<affiliation ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</affiliation>
+	</persName>
+	<resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2023" to="2024">Datenaquise</resp>
+	<resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2023" to="2024">Forschungsarbeit</resp>
+	</respStmt>
+<respStmt>
+	<persName>
+		<forename>Ruth</forename>
+		<surname>Sander</surname>
+		<idno type="orcid">https://orcid.org/0009-0008-3678-9070</idno>
+		<affiliation ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</affiliation>
+	</persName>
+	<resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Entwicklung und Konzeption</resp>
+	<resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2023" to="2024">Datenaquise</resp>
+	<resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2023" to="2024">Datenaufbereitung</resp>
+	<resp ref="https://credit.niso.org/contributor-roles/formal-analysis/" from="2023" to="2024">Datenauswertung</resp>
+	<resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2023" to="2024">Methodik</resp>
+	<resp ref="https://credit.niso.org/contributor-roles/visualization/" from="2023" to="2024">Design und Visualisierung</resp>
+</respStmt>
+<respStmt>
+	<persName>
+		<forename>Markus</forename>
+		<surname>Schnöpf</surname>
+		<idno type="orcid">https://orcid.org/0000-0003-2529-8248</idno>
+		<affiliation ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</affiliation>
+	</persName>
+	<resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Entwicklung und Konzeption</resp>
+	<resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2023" to="2024">Datenaquise</resp>
+	<resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2023" to="2024">Datenaufbereitung</resp>
+	<resp ref="https://credit.niso.org/contributor-roles/formal-analysis/" from="2023" to="2024">Datenauswertung</resp>
+	<resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2023" to="2024">Methodik</resp>
+	<resp ref="https://credit.niso.org/contributor-roles/visualization/" from="2023" to="2024">Design und Visualisierung</resp>
+</respStmt>
+</titleStmt>
+	<publicationStmt>
+		<publisher>Berlin-Brandenburgische Akademie der Wissenschaften, Abteilung TELOTA</publisher>
+		<pubPlace>Berlin</pubPlace>
+		<availability>
+			<licence target="https://creativecommons.org/licenses/by/4.0/"><p>Distributed under the Attribution-NoDerivs 4.0 International license</p></licence>
+		</availability>
+		<date when="2024">2024</date>
+	</publicationStmt>
+<sourceDesc>
+<p>Born digital.</p>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<p>...</p>
+</body>
+</text>
+</TEI>
