@@ -40,7 +40,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 	<persName>
 		<forename>Marthe</forename>
 		<surname>Küster</surname>
-		<idno type="orcid"/>
+		<idno type="orcid">https://orcid.org/0009-0006-9179-9672</idno>
 		<affiliation ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</affiliation>
 	</persName>
 	<resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2023" to="2024">Datenaquise</resp>
